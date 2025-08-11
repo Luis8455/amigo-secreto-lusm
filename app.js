@@ -24,6 +24,7 @@ function agregarAmigo() {
     inputAmigo.focus();
 }
 
+
 //Actualiza la lista visual
 function actualizarLista() {
     const listaAmigoslu =document.getElementById("listaAmigos")
