@@ -75,5 +75,5 @@ El proyecto amigo secreto, trata de que la persona ingrese a sus mejores amigos 
 
 ##Persona Desarrolladora del Proyecto
 
-|<br>[<sub>Luis Sánchez Meléndez</sub>](https://github.com/Luis8455)|
+|[<img src="https://avatars.githubusercontent.com/u/143888168?v=4" width=115><br><sub>Luis Sánchez Meléndez</sub>](https://github.com/Luis8455)|
  | :---: |
